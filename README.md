@@ -9,3 +9,5 @@ Running instructions:
 
 Current method achieved 99% accuracy on the test data.
 
+Datset citation:
+Saikat Basu, Sangram Ganguly, Supratik Mukhopadhyay, Robert Dibiano, Manohar Karki and Ramakrishna Nemani, DeepSat - A Learning framework for Satellite Imagery, ACM SIGSPATIAL 2015.
